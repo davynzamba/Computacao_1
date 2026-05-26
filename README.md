@@ -37,13 +37,13 @@ Com base no programa oficial da disciplina, os códigos contidos aqui refletem o
 * **Paradigma:** Programação Estruturada
 * **Compilador:** GCC / Clang
 
----
+<!-----
 
 ## 📂 Estrutura do Repositório
 
 *(Dica: Organize ou descreva suas pastas aqui conforme os seus arquivos reais)*
 * `/exercicios`: Fixação de sintaxe, operadores aritméticos, relacionais e estruturas condicionais.
-<!-- * `/matrizes-vetores`: Algoritmos voltados para Álgebra Linear e manipulação de arrays.
+* `/matrizes-vetores`: Algoritmos voltados para Álgebra Linear e manipulação de arrays.
 * `/funcoes-arquivos`: Projetos modulares utilizando subprogramas e manipulação de arquivos `.txt`. -->
 
 ---
